@@ -1,0 +1,9 @@
+lib/
+classes/
+
+*.class
+*.war
+
+target/
+
+*.log
